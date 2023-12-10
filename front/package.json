@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.1.9",
+    "expo": "^49.0.21",
+    "metro": "^0.80.1",
+    "metro-react-native-babel-transformer": "^0.77.0",
+    "react-native": "^0.73.0"
+  }
+}
